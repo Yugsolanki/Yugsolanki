@@ -8,7 +8,8 @@ I'm a passionate **Software Developer** with expertise in **Golang**, **JavaScri
 
 - **[DocuSense](https://github.com/Yugsolanki/DocuSense):** Smart document understanding and processing tool.
 - **[Heart-Rate-Monitoring](https://github.com/Yugsolanki/Heart-Rate-Monitoring):** Real-time heart rate analysis using modern web technologies.
-- **[MindSpring](https://github.com/Yugsolanki/MindSpring):** Innovative project focused on mental wellness and mindfulness.
+- **[MindSpring](https://github.com/Yugsolanki/MindSpring):** Domain-adaptive Retrieval-Augmented Generation (RAG) system that enhances answer accuracy through
+contextual enrichment and hybrid retrieval using BM25 and dense embeddings.
 
 ---
 
@@ -23,6 +24,7 @@ I'm a passionate **Software Developer** with expertise in **Golang**, **JavaScri
 ### 📫 Connect with Me
 
 - [LinkedIn](https://in.linkedin.com/in/yugsolanki)
+- [Mail](mailto:yugsolanki15@gmail.com)
 
 ---
 
