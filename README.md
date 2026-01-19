@@ -25,7 +25,3 @@ contextual enrichment and hybrid retrieval using BM25 and dense embeddings.
 
 - [LinkedIn](https://in.linkedin.com/in/yugsolanki)
 - [Mail](mailto:yugsolanki15@gmail.com)
-
----
-
-_“Suree!”_
