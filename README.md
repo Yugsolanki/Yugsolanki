@@ -15,8 +15,8 @@ contextual enrichment and hybrid retrieval using BM25 and dense embeddings.
 
 ### 💡 About Me
 
-- 🧠 I'm autistic and embrace creative problem-solving through unique perspectives.
-- 🎾 I play tennis for fun and fitness.
+- 🧠 I'm embrace creative problem-solving through unique perspectives.
+- 🎾 I play tennis and loving running for fun and fitness.
 - 💻 Always exploring new tech trends and open source.
 
 ---
