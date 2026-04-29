@@ -1,4 +1,4 @@
-[]{https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Yug%20Solanki&reversal=false&section=header&textBg=false&fontSize=0}
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Yug%20Solanki&reversal=false&section=header&textBg=false&fontSize=0
 
 ## Hi there, I'm Yugsolanki 👋
 
