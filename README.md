@@ -1,3 +1,5 @@
+[]{https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Yug%20Solanki&reversal=false&section=header&textBg=false&fontSize=0}
+
 ## Hi there, I'm Yugsolanki 👋
 
 I'm a passionate **Software Developer** with expertise in **Golang**, **JavaScript**, **TypeScript**, **React**, **ASP.NET**, and **ASPX**. I love building impactful solutions and learning new things every day!
