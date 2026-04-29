@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there,%20I'm%20Yugsolanki👋&reversal=false&section=header&textBg=false&fontSize=60)
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there,%20I'm%20Yug%20Solanki👋&reversal=false&section=header&textBg=false&fontSize=60)
 
 I'm a passionate **Software Developer** with expertise in **Golang**, **JavaScript**, **TypeScript**, **React**, **ASP.NET**, and **ASPX**. I love building impactful solutions and learning new things every day!
 
